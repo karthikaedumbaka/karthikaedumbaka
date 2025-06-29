@@ -35,3 +35,4 @@
 </div>
 
 ###
+![LeetCode Stats](https://leetcard.jacoblin.cool/AEDUMBAKA_KARTHIK?theme=dark&font=Krub&ext=activity)
